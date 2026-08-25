@@ -1,2 +1,1 @@
-# hello-world
-Hello World repository for COP4655 Lab 0
+# Hello World This is my first repo for COP4655 Mobile App Projects. — Braeden Thies
